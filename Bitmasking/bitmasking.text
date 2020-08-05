@@ -1,0 +1,40 @@
+BitWise Operators and Shift Operators
+& - and
+  ex -  
+       i/p    o/p 
+        1 1   1
+        1 0   0
+        0 1   0
+        0 0   0
+| - or
+   ex -  
+         i/p    o/p 
+          1 1   1
+          1 0   1
+          0 1   1
+          0 0   0
+~ - not
+    ex - 
+       ~ 0 => 1
+       ~ 1 = 1
+^ - xor 
+    ex - 
+          i/p    o/p 
+          1 1   1
+          1 0   1
+          0 1   1
+          0 0   0
+       
+Left shift operators 
+         ex - 5 << 1 
+              101 << 1 ==> 1010
+Right shift operators
+         ex - 5 >> 1
+              101 >>1 ==> 100
+  
+  
+
+
+
+              
+    
