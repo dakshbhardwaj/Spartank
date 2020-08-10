@@ -1,5 +1,4 @@
 // How to recursively insert the elements in a linked list and can you traverse recursively as well?
-// In case you know nothing about linkedlist, send me the text and I shall help you with it.
 
 #include<iostream>
 #include<vector>
